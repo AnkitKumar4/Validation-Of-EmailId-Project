@@ -35,7 +35,7 @@ user need to check the correct email & check the correct String (collection of c
 ## Conclusion: -
 Email validation is a fast, easy to use, cost effective solution for boosting the performance of your e-mail marketing & communication programs.
 ## SWOT: -
-Strength- Easy to use, Fast
-Weakness- without internet it is not working, & incorrect data is not sufficient
-Opportunity- In future user feedback benefits for it.
-Thread - overall good performance
+Strength- Easy to use, Fast  
+Weakness- without internet it is not working, & incorrect data is not sufficient  
+Opportunity- In future user feedback benefits for it.  
+Thread - overall good performance  
